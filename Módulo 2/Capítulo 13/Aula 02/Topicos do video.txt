@@ -1,0 +1,17 @@
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 13, aula 02
+00:17​ – O que vimos até aqui?
+01:36​ – Cursos grátis de tecnologia
+02:46​ – Criando o exercício
+03:55​ – Configurando as propriedades básicas
+05:20​ – Usando cores Hex
+07:16​ – Como representar cores em hexadecimais?
+07:45​ – Cores Hex com o GIMP
+09:59​ – Usando a função rgb()
+12:25​ – Seja um apoiador
+13:21​ – Matiz, saturação e luminosidade com hsl()
+14:55​ – Facilitando o uso de cores com VSCode
+16:56​ – Usando transparência com rgba()
+18:44​ – Usando hsla()
+19:00​ – Várias maneiras de representar cores
+19:18​ – Não consigo harmonizar as cores

@@ -1,0 +1,15 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 12, aula 01
+00:14 – Introdução aos estilos CSS
+01:48 – Cursos grátis e com certificado
+02:45 – O que são as CSS?
+03:32 – Criando um exercício com estilo
+04:12 – Não faça do jeito errado
+05:02 – Fazendo do jeito certo
+06:41 – Modificando cores com CSS
+08:31 – Modificando fonte com CSS
+08:52 – A diferença entre HTML e CSS
+09:24 – Tudo vai ficando confuso
+11:33 – Desvantagens dos CSS inline
+14:54 – Segue a gente no Instagram
+15:21 – Encerrando

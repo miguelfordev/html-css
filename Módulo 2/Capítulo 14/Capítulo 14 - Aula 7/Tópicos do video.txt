@@ -1,0 +1,21 @@
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 14, aula 07
+00:13​ – Procurando uma fonte específica para seu site
+01:00​ – A sua oportunidade pode estar aqui
+02:07​ – Criando um novo exercício
+02:56​ – Montando o estilo CSS
+03:20​ – Sites para baixar fontes
+03:56​ – Cuidado com fontes sem acentos
+05:00​ – Baixando uma fonte
+05:30​ – Onde colocar uma fonte externa no site
+06:01​ – Criando o seletor font-face
+06:50​ – Configurando a fonte personalizada
+07:28​ – Entenda sobre os tipos e formatos de fonte
+08:45​ – Configurações adicionais ao font-face
+10:00​ – Configurando pastas específicas para fontes
+11:22​ – Misturando fontes externas e Google Fonts
+12:11​ – Compartilhe o curso com os amigos
+12:47​ – Continuaremos com o assunto de fontes
+
+Site para fontes externas:
+    - dafont.com

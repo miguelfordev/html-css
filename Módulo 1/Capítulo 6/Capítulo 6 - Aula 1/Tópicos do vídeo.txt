@@ -1,0 +1,12 @@
+- Direitos Autorais:
+	- Sites para pesquisa de imagens:
+		- Unsplash (busca em inglês)
+		- Pexels (busca em inglês)
+		- Freepic
+		- Howpixel
+		- Pixabay
+		- Libreshot
+		- Wikimedia commons
+
+- Programa de manipulação de imagens:
+	- GIMP

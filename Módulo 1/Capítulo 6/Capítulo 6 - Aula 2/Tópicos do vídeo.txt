@@ -1,0 +1,6 @@
+- Existem 3 formatos principais de imagem e quando usar JPG,PNG ou GIF:
+	- JPG/JPEG quando a compactação importa, não tem fundo transparente e apresenta pouca qualidade de imagem ao dar zoom.
+
+	- PNG melhor qualidade de imagem podendo ter cor de fundo ou fundo transparente para melhor manipulação da imagem.
+
+	- GIF melhor qualidade, cor ou transparência, porém não se importa com tamanho de imagem.

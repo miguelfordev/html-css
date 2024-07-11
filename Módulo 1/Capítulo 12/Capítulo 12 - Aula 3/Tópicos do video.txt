@@ -1,0 +1,18 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 12, aula 03
+00:16 – A maneira mais versátil de inserir estilos
+00:54 – Curso de fundamentos de programação
+02:11 – Duplicando o exercício anterior
+02:53 – O que é um estilo externo?
+03:06 – Site com múltiplas páginas
+04:15 – Ajuda para criar novos documentos
+05:09 – Aplicando o mesmo estilo em várias páginas
+05:41 – O problema de duplicar estilos
+06:32 – Como usar estilo CSS externo
+07:30 – A regra charset em CSS externo
+08:20 – Aplicando estilo externo em várias páginas
+10:19 – Recomendações para o uso de estilos CSS
+10:51 – Siga a gente nas redes sociais
+11:16 – Misturando múltiplas declarações CSS
+13:11 – Compare os exercícios anteriores
+15:03 – Qual é a melhor técnica?

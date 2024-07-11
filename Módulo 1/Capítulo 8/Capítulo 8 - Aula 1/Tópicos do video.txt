@@ -1,0 +1,14 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 08, aula 01
+00:18 – Introdução
+00:44 – É possível migrar um site?
+01:57 – O que é semântica
+02:57 – Comparando HTML4 e HTML5
+04:38 – Ainda existe bgcolor no body?
+05:06 – Tags obsoletas da HTML5
+06:46 – Não use mais as tags center, font, etc
+08:12 – Entendendo forma e significado
+11:05 – Mas como uso cores?
+12:09 – Onde vejo os sites oficiais?
+13:19 – Como consigo um certificado desse curso?
+14:02 – Qual é o próximo assunto?

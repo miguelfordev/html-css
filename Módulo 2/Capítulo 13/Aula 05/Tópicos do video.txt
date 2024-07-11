@@ -1,0 +1,4 @@
+Como capturar cores da tela?
+
+    - Tirar print da tela, abrir o gimp com a imagem e selecionar o conta gotas.
+    - Utilizar a extensão COLORZILLA no browser.

@@ -1,0 +1,13 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 08, aula 02
+00:15 – Formatação de textos em HTML5
+01:00 – Cursos inéditos
+02:11 – Criando um novo exercício
+03:07 – Negrito normal (sem semântica)
+04:27 – Negrito semântico (destaque)
+05:15 – Itálico normal (sem semântica)
+05:30 – Envelopamento com abreviatura
+07:23 – Itálico semântico (ênfase)
+09:25 – Semântica ou forma?
+10:41 – Três pedidos especiais
+11:22 – Mais formatações extras

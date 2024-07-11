@@ -1,0 +1,14 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 12, aula 02
+00:15 – Separando conteúdo e estilo
+01:02 – O melhor lugar para hospedar seu site
+02:15 – Estilo inline fica muito confuso
+02:57 – Criando uma cópia do exercício
+03:45 – Removendo o estilo anterior
+04:23 – Criando um estilo local
+05:12 – Criando um seletor CSS
+05:58 – Vantagens do estilo isolado
+07:40 – Tudo ficou mais organizado
+09:11 – Torne-se apoiador do projeto
+09:54 – Desvantagens dos estilos internos
+11:34 – Vem aí a terceira técnica

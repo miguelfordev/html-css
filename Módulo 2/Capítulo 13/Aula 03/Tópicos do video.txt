@@ -1,0 +1,49 @@
+Harmonia de cores:
+    - Circulo Cromático: pra entender Harmonia de cores.
+
+    - Cores Primárias:
+        - Amarelo
+        - Vermelho
+        - Azul
+    - Cores Secundárias:
+        - Laranja
+        - Violeta
+        - Verde
+    - Cores Terciárias:
+        - Amarelo-esverdeado
+        - Amarelo-alaranjado
+        - Vermelho-alaranjado
+        - Vermelho-arroxeado
+        - Azul-arroxeado
+        - Azul-esverdeado
+    
+    -Temperatura de Cores:
+        - Entre o Violeta e Amarelo-esverdeado = Cores Frias.
+        - Entre o Vermelho-arroxeado e Amarelo = Cores Quentes.
+
+    - Cores Complementares:
+        - Violeta -> Amarelo (Contraste)
+
+    - Cores Análogas:
+        - Violeta -> Vermelho-arroxeado ou Azul-arroxeado.
+
+    - Cores Análogas + Complementares:
+        - Violeta -> Vermelho-arroxeado ou Azul-arroxeado ou Amarelo.
+
+    - Cores Análogas Relacionadas:
+        - Duas principais: Amarelo e Amarelo-alaranjado pular uma cor e pega a proxima -> Vermelho-alaranjado. Pode ser pra qualquer lado na palheta de cores 
+
+    - Cores Intercaladas:
+        - Amarelo -> pula -> Vemelho-alaranjado -> pula -> Vermelho.
+
+    - Cores Triádicas:
+        - Amarelo -> pula 3x -> Vermelho -> pula 3x -> Azul.
+    
+    - Cores em Quadrado:
+        - Amarelo -> pula 2x -> Vermelho-alaranjado -> pula 2x -> Violeta -> pula 2x -> Azul-esverdeado.
+
+    - Cores Tetrádicas:
+        - Verde -> (complementar) Vermelho -> escolhe outra principal Laranja -> (complementar) Azul.
+
+    - Monocromia:
+        - Laranja -> modificar duas caracteristicas: Saturação e Luminosidade.

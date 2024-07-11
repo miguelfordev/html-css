@@ -1,0 +1,21 @@
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 14, aula 06
+00:14​ – Usando fontes externas em sites
+00:43​ – Quer aprender a produzir vídeos?
+02:14​ – Criando um novo exercícios
+04:28​ – Acessando o Google Fonts
+05:10​ – Filtrando fontes por categoria
+05:46​ – Usando uma fonte escolhida
+06:48​ – Código de incorporação da fonte
+07:20​ – Colocando o código no arquivo CSS
+07:49​ – Escolhendo uma fonte mais completa
+09:00​ – Importando a segunda fonte
+09:47​ – Aplicando a fonte ao conteúdo HTML
+11:38​ – Mais opções do Google Fonts
+12:26​ – E se a fonte não estiver no Google Fonts?
+13:36​ – Quantas fontes usar em um site?
+13:55​ – Nos ajude a chegar mais longe
+14:36​ – Usando fontes externas baixadas
+
+Site para baixar fontes:
+    - fonts.google.com

@@ -1,0 +1,44 @@
+- Como funciona HTML e CSS e a diferença entre eles e Javascript
+- A HTML e as CSS
+- A HTML focada em contéudo (texto, imagem, video, tabela, listas)
+- As CSS são design (cor, sombras, tamanhos, posicionamento)
+- JS responsável pela interações (menus, animações, popups, validações)
+
+-----------------------------------------------------------------------
+Contéudo em HTML:
+- Usando tags (coontéudo):
+
+	abertura de tag > <h1>Exemplo de título</h1> <fechamento de tag
+
+	<p> Exemplo de parágrafo </p>
+
+	<img src="foto.png" alt="exemplo de foto">
+			     >parâmetro    >valor
+-----------------------------------------------------------------------
+Estilo em CSS:
+
+seletores
+ ^
+h1{       declaração
+	------------------ 
+	font-famili:Arial;
+	font-size:20pt;
+	color:blue; >valor
+	  >propriedade
+}
+----------------------------------------------------------------------
+Estrutura básica de documento HTML:
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" 
+		content="width=device-width,
+		initial-scale=1.0">
+		<title>Document</title>
+	</head>
+	<body>
+		<h1> Olá, Mundo!</h1>
+	</body>
+</html>
+----------------------------------------------------------------------

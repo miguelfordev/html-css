@@ -1,0 +1,43 @@
+Bibliografia Recomendada:
+01 - História da Internet
+
+Referências On-line:
+- Refrência MDN = Mozilla Developer Network (PT-BR)
+- W3C Standars = World Wid Web Consortium
+- WHATWG Living Standard = Web Hypertext Application Technology Working Group
+- W3Schools = Refesnes Data
+
+Livros:
+- O-REILLY: 
+	- HTML5(Mark Pilgrim), 
+	- CSS(Eric Meyer), 
+	- Flexbox in CSS(Estelle Weyl), 
+	- Grid Layout in CSS(Eric Meyer) 
+
+- Alta Books:
+	- HTML5 e CSS3 (Elizabeth Castro e Bruce Hyslop)
+	- HTML e CSS (Jon Duckett)
+	- Use a cabeça HTML e CSS (Elisabeth Robson e Eric Freeman)
+
+- Novatec:
+	- Crie seu próprio site (Nate Cooper e Kim Gee)
+	- HTML5 (Mauricio Samy Silva)
+	- CSS3 (Mauricio Samy Silva)
+	- Fundamentos de HTML5 e CSS3 (Mauricio Samy Silva)
+	- CSS Grid Layout (Mauricio Samy Silva)
+
+- GG: 
+	- Curso de desing gráfico (David Dabner e outros)
+	- Psicologia das cores (Eva Heller)
+	- Pensar com Tipos (Ellen Lupton)
+
+- Senac:	
+	- O essencial do desing gráfico (Bob e Maggie Gordon)
+
+- OSTRaining:
+	- Flexbox Explained (Jorge Montoya e Setephen Burge)
+	- CSS Grid Explained (Jorge Montoya e Setephen Burge)
+
+- Bookman:
+	- Smashing HTML5 (Bill Sanders)
+	- Smashing CSS (Eric Meyer)

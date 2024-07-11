@@ -1,0 +1,11 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 09, aula 01
+00:16 – Onde usamos listas?
+01:07 – Curso grátis de criação de aplicativos
+02:09 – Iniciando um exemplo de lista
+04:16 – Listas ordenadas
+06:23 – Personalizando listas ordenadas
+08:33 – Me segue lá no Instagram
+09:00 – Listas não ordenadas
+10:17 – Personalizando listas não ordenadas
+11:45 – Outros tipos de lista

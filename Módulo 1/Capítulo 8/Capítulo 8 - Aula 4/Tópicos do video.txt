@@ -1,0 +1,14 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 08, aula 04
+00:20 – Encerrando o capítulo
+00:50 – Um dia você vai precisar de um site profissional
+02:35 – Criando um novo exercício
+03:23 – Inserindo código fonte em páginas
+06:40 – Mantendo a formatação de códigos grandes
+07:06 – Corrigindo a tabulação
+08:25 – Ajude a divulgar o curso
+09:50 – Criando citações simples
+11:30 – Criando citações em bloco
+14:39 – Criando abreviações
+16:20 – Criando textos invertidos em HTML
+17:41 – CSS está vindo aí

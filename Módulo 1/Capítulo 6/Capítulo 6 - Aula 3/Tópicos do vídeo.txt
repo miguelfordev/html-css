@@ -1,0 +1,19 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 06, aula 03
+00:28 – Introdução
+01:00 – Uma história emocionante
+02:08 – Abrindo nossas imagens
+04:55 – Qual é o melhor tamanho para imagens na web?
+05:20 – Reduzindo o tamanho das imagens
+06:05 – Qual é a melhor resolução para imagens
+07:00 – Exportando imagens para web
+09:00 – Comparando os tamanhos diferentes
+10:05 – Reduzindo o tamanho de um PNG
+13:59 – Ajude a divulgar nosso curso
+15:25 – O que faremos na próxima aula?
+
+- Tamanhos da imagens:
+	- GIMP - imagem>redimensionar imagem>linka e escolhe tamanho
+	- Arquivo>exportar como>salva com outro nome
+	- 800x600
+	- 400x200

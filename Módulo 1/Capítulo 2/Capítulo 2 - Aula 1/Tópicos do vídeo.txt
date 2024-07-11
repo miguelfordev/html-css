@@ -1,0 +1,16 @@
+00:00 – Capítulo 02, aula 01
+00:45 – Cursos profissionais para aprender muito mais
+02:00 – Como a Internet funciona?
+02:31 – Como o computador vê os dados?
+03:16 – O que é bit e byte
+06:12 – Os múltiplos do byte
+10:07 – Esse curso terá certificado?
+10:50 – Como nos conectamos na Internet?
+11:45 – O que é um modem?
+14:10 – Como chegamos aos servidores
+15:11 – Como descobrir meu IP
+16:22 – Como descobrir o IP de um site
+17:42 – O que são os servidores DNS
+18:35 – O passo a passo do funcionamento da Internet
+19:27 – Entendendo as rotas da Internet
+21:08 – Encerrando

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+    <style>
+        body {
+            font-family: 'work Sans',Arial, Helvetica, sans-serif;
+            /* Medidas Absolutas 
+            cm, mm, in, px, pt, pc
+            
+            Medidas Relativas
+            em, ex, rem, vw, vh, %
+
+            16px geralmente = 1em
+        
+            */
+            font-size: 1em ;
+            font-weight: 900;
+            /* Pesos: 100-900
+              lighter, normal, bold, bolder
+            */
+            font-style: italic;
+            text-decoration: underline;
+            
+            /* weight - peso
+               width - largura
+               height - altura */
+        }
+
+        h1 {
+            font-family: sans-serif;
+            font-weight: bolder;
+            font-size: 1em;
+            font-style: italic;
+            /* Shorthand Font
+            
+            -> font-style -> font-weight -> font-size -> font-family
+            
+            Ex:
+            font: italic bolder 3em 'sans-serif';
+            */
+            font: italic bolder 3em 'sans-serif';
+        }
+        h2{ 
+            font: bold 2em 'times';
+        }
+    </style>
+</head>
+<body>
+    <h1>Trabalhando com Fontes</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, ea reprehenderit qui temporibus hic in sunt, omnis deserunt velit necessitatibus doloribus, repellendus possimus mollitia expedita nostrum consectetur molestias doloremque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae quae velit eaque, distinctio maiores sapiente obcaecati cupiditate non consectetur molestias reiciendis? Numquam, laudantium autem? Minus aperiam similique ad quidem veniam.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, excepturi ipsum et veniam modi minus eveniet quia illum autem tenetur harum rerum ut consequuntur corporis ab quos nulla, vero porro.</p>
+    <h2>Subtitulo do Exercicio</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, quibusdam maxime harum amet veniam vel totam. Fuga minima porro officia autem reiciendis repudiandae, aliquid obcaecati perferendis quod facere corporis dignissimos!</p>
+</body>
+</html>

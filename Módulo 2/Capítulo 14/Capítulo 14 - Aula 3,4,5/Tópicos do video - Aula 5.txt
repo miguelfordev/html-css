@@ -1,0 +1,16 @@
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 14, aula 05
+00:15​ – Peso, estilo e shorthand
+00:59​ – O melhor local para colocar seu site
+02:30​ – Peso da fonte
+03:39​ – Uso do font-weight
+04:11​ – Peso com palavras-chave
+05:07​ – Peso com variações numéricas
+06:05​ – Nem toda fonte tem variações
+06:37​ – Uso do font-style
+08:00​ – Uso do text-decoration
+08:36​ – Configuração de exemplo
+09:11​ – Simplificando tudo com shorthand Font
+11:06​ – Um outro exemplo de simplificação
+11:51​ – Quer conquistar cinco certificados?
+12:33​ – Usando fontes externas

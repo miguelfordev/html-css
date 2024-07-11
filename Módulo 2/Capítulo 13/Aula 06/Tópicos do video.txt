@@ -1,0 +1,23 @@
+Como criar degradê com CSS ?
+
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 13, aula 06
+00:15​ – Aprendemos muito sobre cores
+00:49​ – Soluções digitais para o seu negócio
+02:23​ – Criando um novo exercício
+03:04​ – Mudando a cor do fundo da página
+03:47​ – Usando o background-image para degradê
+04:08​ – Usando o linear-gradient em CSS
+05:00​ – Configurações globais das CSS
+05:50​ – Fazendo um degradê mais harmônico
+06:52​ – Deixando o fundo em degradê fixo na tela
+07:14​ – Copiando o degradê do Instagram
+09:02​ – Mudando o ângulo do degradê em graus
+09:36​ – Usando um radial-gradient
+10:30​ – Personalizando ainda mais o degradê
+11:27​ – Cuidado com o exagero
+12:12​ – Não se esqueça de ajudar o canal
+12:54​ – Vamos começar a montar sites harmônicos
+
+Anotações:
+    - 

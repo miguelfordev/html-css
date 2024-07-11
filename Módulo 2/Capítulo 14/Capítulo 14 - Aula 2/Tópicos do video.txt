@@ -1,0 +1,56 @@
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 14, aula 02
+00:14​ – O que vimos até aqui
+00:54​ – Cursos grátis para ajudar na sua carreira
+02:02​ – Anatomia do tipo
+03:43​ – Altura X
+04:54​ – Altura das maiúsculas
+05:22​ – Ascendente e descendente
+06:05​ – Altura do corpo
+06:52​ – A importância da serifa
+08:23​ – Experiência de leitura
+11:05​ – Seja um apoiador do projeto e ganhe certificados
+11:47​ – Anatomias geométricas
+13:54​ – Anatomias humanizadas
+16:00​ – O que é um glifo
+16:27​ – O que é uma fonte
+17:05​ – Família tipográfica
+18:44​ – Categorias de fontes
+19:25​ – Fontes serifadas e sem sérias
+20:19​ – Recomendações de uso de fontes
+21:34​ – Fontes monoespaçadas
+23:07​ – Fontes handwrite e comemorativas
+24:34​ – Vamos aplicar tudo na prática
+
+Estudo básico de Tipografia: Parte 2
+
+Anatomia do tipo:
+    - Corpo: altura das maiúsculas, altura-x, Ascendente, descendente.
+    - Serfia: pézinho
+    - Haste: K l - pilar
+    - Filete: A - une duas hastes
+    - Arco: n - Barriga
+    - Esporão: b - fixar a letra
+    - Vértice: A - ponta do a
+    - Termial: r - parece uma gota no final da letra r
+    - Braço: k - sai da haste e vai pra cima
+    - Pera: k - sai da haste e vai pra baixo
+    - Pé: k - fica perto da serifa
+    - Espinha: S - centro do S
+    - Barriga: b - meio da B
+    - Olho: O - no meio do O
+    - Orelha: g - em cima do g
+    - Cauda: g - final do g
+
+Glifo é uma letra.
+Conjunto de todos os glifos é chamada de Fonte.
+
+Familia Tipografica:
+    - light, normal, seminegrito, negrito, extranegrito.
+
+Categorias de Fontes:
+    - Serifadas. 
+    - Sans-serif. Sem serifa.
+    - Monoespaçadas. - Mesmo espaço entre as letras.
+    - Handwirting. - Tenta simular escrita a mão. 
+    - Display - Não tem caracteristicas da de cima. Não segue regras.

@@ -1,0 +1,13 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 11, aula 02
+00:21 – A importância do tamanho das imagens
+01:07 – Uma história de mudança de vida
+02:14 – Imagens que criamos
+03:09 – Criando o código básico HTML5
+03:46 – A nova tag picture
+04:41 – Testando o exercício
+05:15 – O perigo do bounce rate
+05:59 – Criando vários source
+09:37 – Ajude o projeto sendo um apoiador
+10:21 – CUIDADO: Invertendo os sources
+12:16 – Várias versões da mesma imagem

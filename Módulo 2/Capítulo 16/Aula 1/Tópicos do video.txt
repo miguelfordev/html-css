@@ -1,0 +1,28 @@
+Modelo de Caixas: Primeiros Passos
+
+<h1> Olá Mundo </h1>
+
+h1 tem altura e largura -> borda que cirular o contéudo -> preenchimento entre a borda e o contéudo -> cria um espaço externo entre a borda e a linha do espaço externo, uma margem -> uma "traçado" logo apois a borda, contorno
+
+altura - height
+largura - width
+borda - border
+preenchimento (interno) - padding
+margem (externo) - margin
+contorno - outline
+
+Tipos de Caixa:
+    - box-level                                      - inline-level
+        Pula p para colocar o novo contéudo.                    Ajusta o contéudo na mesma linha, sem quebrar.
+        ex:                                            ex:
+            <div>                                          <span>
+            <h1>-<h6>                                      <a>
+            <p>                                            <code>
+            <main>                                         <small>
+            <header>                                       <strong>
+            <nav>                                          <em>
+            <article>                                      <sup>-<sub>
+            <aside>                                        <label>
+            <footer>                                       <button>
+            <form>                                         <input>
+            <video>                                        <select>

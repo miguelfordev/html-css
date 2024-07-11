@@ -1,0 +1,15 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 08, aula 03
+00:15 – Formatações especiais
+00:42 – Cursos grátis para entrar no mercado
+01:40 – Continuando o exercício
+02:00 – Usando um marca texto (mark)
+04:00 – Mudando a cor de um marcador
+05:44 – Mudando a cor de todos os marcadores
+06:44 – Texto grande e pequeno
+07:53 – Por que o big se tornou obsoleto?
+09:30 – Textos deletado (del) e inserido (ins)
+10:47 – Diferença entre as tags ins e u
+11:37 – Sobrescrito (sup) e subscrito (sub)
+14:05 – Ajude a divulgar o curso
+14:41 – Ainda não terminou

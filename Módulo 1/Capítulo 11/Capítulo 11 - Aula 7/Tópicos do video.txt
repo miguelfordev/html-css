@@ -1,0 +1,8 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 11, aula 07
+00:14 – Desafio 9: um site com vídeos
+00:32 – Cursos modernos e com qualidade
+01:43 – Acessando a pasta do desafio
+02:10 – Como vai ser o site pronto
+03:45 – Compartilhe o curso
+04:22 – Vem aí as CSS

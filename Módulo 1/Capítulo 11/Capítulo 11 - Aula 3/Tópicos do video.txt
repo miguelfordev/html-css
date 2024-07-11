@@ -1,0 +1,20 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 11, aula 03
+00:17 – Inserindo áudio no site
+01:05 – A melhor solução de hospedagem
+02:36 – Criando um novo exercício
+03:33 – Onde conseguir áudios grátis
+05:35 – Cuidados com os áudios
+06:17 – Acompanhe nosso trabalho
+06:43 – Baixando um podcast grátis
+08:25 – Criando código HTML para áudio
+09:38 – Múltiplos formatos de áudio
+10:22 – Ganhando mais compatibilidade
+12:35 – Preload de áudio
+13:29 – Outros parâmetros
+14:12 – Áudio em looping
+14:45 – Cuidado com áudios WAV
+15:27 – Outros tipos de mídia
+
+- Conseguindo audio grátis:
+	- youtube.com > youtube studio > biblioteca de audio

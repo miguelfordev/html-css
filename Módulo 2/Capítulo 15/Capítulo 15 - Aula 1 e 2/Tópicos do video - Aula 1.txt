@@ -1,0 +1,15 @@
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 15, aula 01
+00:16​ – Seletores personalizados
+01:19​ – Em que momento personalizar um seletor
+01:50​ – O melhor lugar para hospedar seu site
+03:02​ – Criando novo exercício
+04:50​ – Criando um estilo externo para a página
+06:45​ – Quer saber sempre que sair vídeo novo?
+07:22​ – Por padrão, todo seletor é genérico
+08:11​ – Identificando componentes HTML com id
+09:43​ – O uso do símbolo cerquilha #
+10:22​ – Personalizando os títulos com id
+11:25​ – Cuidado com erros de digitação
+11:58​ – Qual é a diferença entre id e class?
+

@@ -1,0 +1,18 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 06, aula 05
+00:25 – O que vimos até aqui
+01:12 – Cursos caprichados
+02:47 – O que é favicon?
+03:50 – Criando seu próprio favicon
+05:05 – Site de ícones grátis
+06:19 – Desenhando seu arquivo ICO
+07:47 – Convertendo PNG em ICO
+10:12 – Segue a gente nas redes sociais
+10:39 – Como configurar o favicon em HTML5
+11:55 – Usando a tag link para favicon
+14:23 – Imagens são importantes
+
+- Sites importantes:
+	- Icon Archive	- https://www.iconarchive.com/
+	- Favicon.cc	- https://www.favicon.cc/
+	- Favicon.io	- https://favicon.io/

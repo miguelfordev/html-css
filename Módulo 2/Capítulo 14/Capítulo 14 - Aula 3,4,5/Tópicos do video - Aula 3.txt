@@ -1,0 +1,17 @@
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 14, aula 03
+00:14​ – Vamos continuar a estudar fontes
+00:55​ – Aprenda a criar aplicativos Android
+02:05​ – Criando um novo exercício
+03:18​ – Criando o conteúdo genérico
+04:20​ – Mudando a família da fonte
+05:21​ – Segue a gente nas redes sociais
+05:49​ – Usando múltiplas fontes alternativas
+07:29​ – Web safe font combinations
+08:30​ – Fontes genéricas
+09:24​ – VSCode te ajuda com as combinações
+10:25​ – Família de fonte para títulos
+11:34​ – Vamos falar sobre tamanho de fonte
+
+CSS Web fonts safe combinations
+ - Combinação segura de fontes.

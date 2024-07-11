@@ -1,0 +1,16 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 07, aula 01
+00:18 – Hierarquia de títulos em HTML5
+00:50 – Vários cursos extra grátis
+02:00 – Estutura de títulos de uma revista
+03:10 – Índice de um livro também é hierárquico
+04:27 – Entendendo os níveis dos títulos
+05:25 – Fazendo um exercício
+06:43 – Tags para o título principal
+07:43 – Pode ter mais de um H1 em uma página?
+08:07 – Mais um nível dos títulos
+09:28 – Gerador de Lorem Ipsum
+11:20 – Os títulos vão de H1 até H6
+12:40 – H1 é letra grande? H6 é letra pequena?
+13:38 – Como ser avisado quando sair aula nova?
+14:15 – Ficou um pouco confuso(a)?

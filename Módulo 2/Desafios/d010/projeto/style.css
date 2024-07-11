@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'idroid';
+    src: url(../pacote-projeto-d010/fontes/idroid.otf);
+}
+
+h1 {
+    text-align: center;
+}
+
+header > p {
+    text-align: center;
+}
+
+nav {
+    display: flex;
+}
+
+nav > menu > ul > li {
+    list-style-type: none;
+    display: inline;
+}
+
+body > main {
+    display: flex;
+    flex-direction: column;
+}
+
+main > section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main > section > article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+}
+
+main > section > article > h2 {
+    font-family: idroid;
+    width: 100%;
+}
+
+main > section > article > h3 {
+    font-family: idroid;
+    width: 100%;
+}
+

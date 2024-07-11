@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midia no site</title>
+</head>
+<body>
+    <h1>Colocando audio no seu site</h1>
+    <p>Vamos aprender a reproduzir audio em HTML5</p>
+    <audio src="midia/sunnyday.mp3" controls></audio>
+    <!-- autoplay pode por como parâmetros em <audio> -->
+    <!-- MP3 WAV OGG-->
+
+    <p>Esses daqui tem loop</p>
+    <audio preload="metadata" autoplay controls loop>
+        <source src="midia/sunnyday.mp3" type="audio/mpeg">
+        <source src="midia/sunnyday.ogg" type="audio/ogg">
+        <source src="midia/sunnyday.wav" type="audio/wav">
+        <p>Infelizmente seu navegador não consegue reproduzir áudio. <a href="midia/sunnyday.mp3">Clique aqui para baixar o arquivo MP3.</a></p>
+    </audio>
+</body>
+</html>

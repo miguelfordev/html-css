@@ -1,0 +1,19 @@
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 13, aula 07
+00:14​ – Exemplo prático de cores em HTML5 e CSS3
+01:04​ – Vários cursos inéditos
+02:22​ – Criando os arquivos básicos
+03:50​ – Abrindo a página de exemplo
+04:44​ – Começando a criar o estilo CSS3
+05:42​ – Escolhendo uma paleta de cores
+06:31​ – Degradê da página
+07:22​ – Demarcando e formatando o conteúdo
+08:27​ – Centralizando o bloco
+08:51​ – Formatando os títulos
+09:52​ – Arredondando as bordas
+10:13​ – Criando uma sombra
+11:35​ – Monocromia e transparência
+12:15​ – Alinhando e formatando título principal
+13:18​ – Comparando o antes e depois
+14:09​ – Ajude a compartilhar o curso
+14:44​ – Próximo assunto: tipografia

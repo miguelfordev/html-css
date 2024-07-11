@@ -1,0 +1,16 @@
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 14, aula 09
+00:17​ – E se a fonte estiver em uma imagem?
+01:15​ – Quer aprender redes, Linux e eletrônica básica?
+02:50​ – Acessando os sites que serão usados
+03:28​ – A imagem que será usada como referência
+03:54​ – Usando o WhatFontIs
+09:13​ – Usando o Font Squirrel
+10:03​ – Usando o MyFonts
+11:19​ – Torne-se um apoiador do projeto
+12:02​ – Vamos falar sobre alinhamentos
+
+Sites para analisar fontes de imagens e baixar:
+    - https://www.whatfontis.com/
+    - https://www.fontsquirrel.com/
+    - https://www.myfonts.com/

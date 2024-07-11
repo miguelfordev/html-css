@@ -1,0 +1,11 @@
+Tópicos deste vídeo:
+00:00​ – Módulo 02, Capítulo 14, aula 10
+00:14​ – O que aprendemos até aqui?
+01:05​ – Faça vários outros cursos grátis
+02:14​ – Criando um novo projeto
+03:25​ – Tipos de alinhamento antigamente
+04:15​ – Fazendo alinhamento do jeito certo
+06:06​ – Recuo de parágrafo (text-indent)
+07:15​ – Não use mais a tag CENTER em HTML
+07:50​ – Acompanhe nosso trabalho nas redes sociais
+08:19​ – Dá pra personalizar ainda mais os seletores

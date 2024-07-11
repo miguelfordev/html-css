@@ -1,0 +1,5 @@
+- Instalando ferramentas:
+	- Google Chrome
+	- Visual Studio Code:
+		- Wordwrap ON
+		- Autosave ON

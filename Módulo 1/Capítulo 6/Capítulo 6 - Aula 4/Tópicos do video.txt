@@ -1,0 +1,14 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 06, aula 04
+00:27 – Você sabe os fundamentos?
+01:08 – Precisa de um site e não tem tempo para criar?
+02:33 – Imagens preparadas para um site
+03:01 – Criando um exemplo
+05:53 – Usando a tag IMG
+06:34 – Uma dica que vai simplificar tudo
+07:29 – Imagem grande demais. Como diminuir?
+09:51 – Apoie o projeto do CursoemVideo
+10:35 – Imagens diminuídas e seu site mais leve
+12:15 – E se a imagem estiver em uma pasta?
+13:25 – Carregando imagens externas
+16:02 – Resumo da aula

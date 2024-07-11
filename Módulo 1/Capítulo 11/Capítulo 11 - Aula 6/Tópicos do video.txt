@@ -1,0 +1,18 @@
+Tópicos deste vídeo:
+00:00 – Capítulo 11, aula 06
+00:18 – O problema do custo
+01:02 – A especialista em criação de sites
+02:27 – O exercício que fizemos anteriormente
+03:09 – Inserindo vídeos do YouTube
+04:01 – Copiando o código de incorporação
+04:40 – Inserindo código YouTube no HTML
+05:34 – A grande vantagem em usar YouTube
+06:30 – Tornando um vídeo exclusivo do seu site
+07:06 – A opção do Vimeo
+08:14 – Vantagens e desvantagens do Vimeo
+08:37 – Código de incorporação no Vimeo
+09:46 – Inserindo código Vimeo no HTML
+10:22 – Comparando YouTube e Vimeo
+11:30 – Vídeos não listados YouTube são seguros?
+12:29 – Ajude o canal do CursoemVideo
+13:09 – Desafios estão chegando

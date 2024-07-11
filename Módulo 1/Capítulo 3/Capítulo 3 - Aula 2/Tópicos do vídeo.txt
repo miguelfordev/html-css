@@ -1,0 +1,7 @@
+- Front-end, Back-end e Full-Stack.
+
+	- Client-side Developer > Frontend: voltada a desenvolvimento de tecnologias para o lado do usuario/cliente.
+		-ex: -
+			
+	- Server-side Developer > Backend: voltada a desenvolvimento de tecnologias para o lado do servidor.
+		-ex: - php,js(nodsjs),c#,python,ruby,java
